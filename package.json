@@ -1,5 +1,5 @@
 {
-  "name": "react-native-rn-videoplayer",
+  "name": "react-native-videoplayer",
   "version": "2.2.9",
   "description": "A customisable React Native video player for Android and IOS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A-ANing/react-native-rn-videoplayer.git"
+    "url": "git+https://github.com/canyuegongzi/react-native-videoplayer.git"
   },
   "keywords": [
     "react-native",
@@ -27,7 +27,7 @@
     "email": "839650216@qq.com"
   },
   "license": "",
-  "homepage": "https://github.com/A-ANing/react-native-rn-videoplayer#readme",
+  "homepage": "https://github.com/canyuegongzi/react-native-videoplayer#readme",
   "dependencies": {
     "react-native-linear-gradient": "^2.5.6",
     "react-native-orientation-locker": "^1.1.8",
